@@ -1,4 +1,4 @@
-# Itch Bundle Claimer
+# Itch.io Bundle Claimer
 Userscript that automatizes the claim of all games purchased through a bundle on Itch.io
 The Itch.io folks don't really like these kinds of things as they get flooded with data but people are going to do it either way so I thought I'd publish a more efficient script than the ones I found online
 
